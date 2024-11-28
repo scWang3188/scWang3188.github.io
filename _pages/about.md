@@ -14,9 +14,7 @@ My research interests include the effects of nutrition during pregnancy, lactati
 
 I am also interested in understanding how maternal nutrition during pregnancy influence maternal and children health like gestational diabetes mellitus, cardiovascular diseases and infant cognitive development.
 
-You can find my CV here: [Shuchen Wang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
-[Email](mailto:wsc31888@gmail.com)
-[Wechat](..//images/wechat.jpg)
+You can find my CV here: [Shuchen Wang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)/[Email](mailto:wsc31888@gmail.com)/[Wechat](..//images/wechat.jpg)
 
 A data-driven personal website
 ======
