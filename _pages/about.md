@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Welcome! I have graduated with a Master’s degree in epidemiology from Shanghai Institute of Health and Nutrition, University of Chinese Academy of Sciences. 
+My research interests include the effects of nutrition during pregnancy, lactation and early life on children health, growth and development. In recent work, I have explored the associations between fatty acids and micronutrients in breast milk and infant neurocognitive development. 
+I am also interested in understanding how maternal nutrition during pregnancy influence maternal and children health like gestational diabetes mellitus, cardiovascular diseases and infant cognitive development.
+You can find my CV here: [Shuchen Wang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
+[Email](mailto:)/[Github](https;//github.com/scWang3188)
 
 A data-driven personal website
 ======
