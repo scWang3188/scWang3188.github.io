@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,10 +9,14 @@ redirect_from:
 ---
 
 Welcome! I have graduated with a Master’s degree in epidemiology from Shanghai Institute of Health and Nutrition, University of Chinese Academy of Sciences. 
+
 My research interests include the effects of nutrition during pregnancy, lactation and early life on children health, growth and development. In recent work, I have explored the associations between fatty acids and micronutrients in breast milk and infant neurocognitive development. 
+
 I am also interested in understanding how maternal nutrition during pregnancy influence maternal and children health like gestational diabetes mellitus, cardiovascular diseases and infant cognitive development.
+
 You can find my CV here: [Shuchen Wang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
-[Email](mailto:)/[Github](https;//github.com/scWang3188)
+[Email](mailto:wsc31888@gmail.com)
+[Wechat](..//images/wechat.jpg)
 
 A data-driven personal website
 ======
